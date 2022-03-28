@@ -1,0 +1,36 @@
+body {
+  background-color: #529942;
+  background-image: linear-gradient(#529942, black);
+  background-repeat:repeat;background-position:top left;
+  background-attachment:fixed;
+}
+
+h1 {
+  color: black;
+  font-family: Courier New;
+  margin-left: 20px;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+img {
+	border-radius: 50%;
+}
+.item {
+	font-family: Lucida Console;
+	background-color: rgba(0,0,0,.5);
+	color: white;
+	margin: 5px;
+	text-align: center;
+	font-size: 1.2em;
+}
+.bloco {
+	font-family: Lucida Console;
+	background-color: rgba(0,0,0,.5);
+	color: white;
+	margin: 5px;
+	text-align: center;
+	font-size: 1.2em;
+}
