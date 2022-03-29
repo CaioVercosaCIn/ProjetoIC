@@ -26,6 +26,11 @@ img {
 	text-align: center;
 	font-size: 1.2em;
 }
+.itemUm {
+	color: green;
+	margin: 5px;
+	text-align: center;
+}
 .bloco {
 	font-family: Lucida Console;
 	background-color: rgba(0,0,0,.5);
